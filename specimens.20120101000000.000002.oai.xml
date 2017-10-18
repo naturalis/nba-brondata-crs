@@ -1,0 +1,4163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OAI-PMH xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:atlantis="urn:atlantis" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <responseDate>2017-10-11T10:33:58Z</responseDate>
+  <request verb="ListRecords" resumptionToken="2012-01-01T00:00:00Z__2012-07-01T00:00:00Z____oai_crs_object__200">https://crs.naturalis.nl/atlantispubliek/oai.axd</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>7816118</identifier>
+        <datestamp>2012-06-28T09:45:19Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51875</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage>juvenile</abcd:PhaseOrStage>
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>18840501</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>18840501</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Didelphis</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>marsupialis</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>Opossum</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Steenbergen, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Suriname</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Port Gelderland</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Suriname, Port Gelderland bij Jodensavanne aan de Surinamerivier</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7816088</identifier>
+        <datestamp>2012-06-28T09:45:44Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51874</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage>juvenile</abcd:PhaseOrStage>
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>18840501</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>18840501</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Didelphis</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>marsupialis</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>Opossum</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Steenbergen, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Suriname</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Port Gelderland</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Suriname, Port Gelderland bij Jodensavanne aan de Surinamerivier</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7816148</identifier>
+        <datestamp>2012-06-28T09:44:49Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51876</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage>juvenile</abcd:PhaseOrStage>
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>18840501</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>18840501</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Didelphis</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>marsupialis</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>Opossum</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Steenbergen, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Suriname</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Port Gelderland</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Suriname, Port Gelderland bij Jodensavanne aan de Surinamerivier</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7816058</identifier>
+        <datestamp>2012-06-28T09:46:10Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51873</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage>juvenile</abcd:PhaseOrStage>
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>18840501</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>18840501</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Didelphis</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>marsupialis</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>Opossum</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Steenbergen, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Suriname</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Port Gelderland</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Suriname, Port Gelderland bij Jodensavanne aan de Surinamerivier</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7688452</identifier>
+        <datestamp>2012-05-23T13:47:37Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51869</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19751216</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19751216</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Soricidae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Indonesia</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Sukamandi, Indonesia</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal />
+              <abcd:LongitudeDecimal />
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7688304</identifier>
+        <datestamp>2012-05-24T08:21:11Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51867</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>23</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Soricidae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7688247</identifier>
+        <datestamp>2012-05-23T13:39:46Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51866</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>7</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Soricidae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687986</identifier>
+        <datestamp>2012-05-23T13:29:48Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51863</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>16</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687960</identifier>
+        <datestamp>2012-05-23T16:24:45Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51862</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>1</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687809</identifier>
+        <datestamp>2012-05-23T13:26:10Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51858</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>[unreadable]</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687927</identifier>
+        <datestamp>2012-05-23T13:28:48Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51861</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>6</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687901</identifier>
+        <datestamp>2012-05-23T13:28:13Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51860</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>3</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687758</identifier>
+        <datestamp>2012-05-23T13:25:32Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51857</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>21</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687679</identifier>
+        <datestamp>2012-05-23T13:24:21Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51855</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>17</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687705</identifier>
+        <datestamp>2012-05-23T13:25:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51856</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>18</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687612</identifier>
+        <datestamp>2012-05-23T13:20:21Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51853</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>9</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687585</identifier>
+        <datestamp>2012-05-23T13:19:48Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51852</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>19</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687557</identifier>
+        <datestamp>2012-05-23T13:19:04Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51851</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>5</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7688207</identifier>
+        <datestamp>2012-05-23T13:39:14Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51865</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>70</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Soricidae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687531</identifier>
+        <datestamp>2012-05-23T13:18:09Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51850</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>14</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687474</identifier>
+        <datestamp>2012-05-23T13:17:33Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51849</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>3</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687442</identifier>
+        <datestamp>2012-05-23T13:16:54Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51848</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>2</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687416</identifier>
+        <datestamp>2012-05-23T13:16:13Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51847</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>13</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687386</identifier>
+        <datestamp>2012-05-23T13:14:33Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51846</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>1</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7687324</identifier>
+        <datestamp>2012-05-23T13:13:22Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51845</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19770111</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19770111</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>6</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Doesburg, P. van</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Muridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Doesburg, P. van</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686849</identifier>
+        <datestamp>2012-05-23T13:00:59Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51843</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19821104</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821104</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>tiomanicus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Malaysia</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Gombak</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Gombak, Maleisië</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686821</identifier>
+        <datestamp>2012-05-23T11:52:51Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51842</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686770</identifier>
+        <datestamp>2012-05-23T11:52:30Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51841</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686744</identifier>
+        <datestamp>2012-05-23T11:52:07Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51840</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686718</identifier>
+        <datestamp>2012-05-23T11:51:42Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51839</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686678</identifier>
+        <datestamp>2012-05-23T11:51:19Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51838</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686639</identifier>
+        <datestamp>2012-05-23T11:50:46Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51837</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686613</identifier>
+        <datestamp>2012-05-23T11:50:24Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51836</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686587</identifier>
+        <datestamp>2012-05-23T11:49:43Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51835</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686541</identifier>
+        <datestamp>2012-05-23T11:46:09Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51834</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex>male</abcd:Sex>
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112336</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686492</identifier>
+        <datestamp>2012-05-23T11:45:09Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51833</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex>male</abcd:Sex>
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112335</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686465</identifier>
+        <datestamp>2012-05-23T11:43:51Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51832</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex>male</abcd:Sex>
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112305</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686437</identifier>
+        <datestamp>2012-05-23T11:43:23Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51831</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex>male</abcd:Sex>
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112303</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686407</identifier>
+        <datestamp>2012-05-23T11:42:54Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51830</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex>male</abcd:Sex>
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112304</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686372</identifier>
+        <datestamp>2012-05-23T11:41:59Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51829</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex>male</abcd:Sex>
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112296</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686345</identifier>
+        <datestamp>2012-05-23T11:41:01Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51828</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex>male</abcd:Sex>
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112337</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686254</identifier>
+        <datestamp>2012-05-23T11:40:14Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51827</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex>male</abcd:Sex>
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112297</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tupaia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686224</identifier>
+        <datestamp>2012-05-23T11:35:07Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51826</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Sciuridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686181</identifier>
+        <datestamp>2012-05-23T11:34:40Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51825</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112295</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Sciuridae</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686152</identifier>
+        <datestamp>2012-05-23T13:54:32Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51824</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112334?</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>tiomanicus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>(Miller, 1900)</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686073</identifier>
+        <datestamp>2012-05-23T13:53:53Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51823</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112333</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>tiomanicus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>(Miller, 1900)</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7686026</identifier>
+        <datestamp>2012-05-23T13:53:07Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51822</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112302</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>tiomanicus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>(Miller, 1900)</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7685997</identifier>
+        <datestamp>2012-05-23T13:52:31Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51821</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112301</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>tiomanicus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>(Miller, 1900)</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7685966</identifier>
+        <datestamp>2012-05-23T13:51:55Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51820</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112409</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>tiomanicus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>(Miller, 1900)</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7685879</identifier>
+        <datestamp>2012-05-23T13:51:20Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51819</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112410</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>tiomanicus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>(Miller, 1900)</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier>Mije, S.D. van der</abcd:Identifier>
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7685634</identifier>
+        <datestamp>2012-05-23T13:50:20Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51818</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber>112331</abcd:CollectorsFieldNumber>
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>tiomanicus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>(Miller, 1900)</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Malaysia</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Bukit Fraser</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Fraser's Hill, Maleisië</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7685563</identifier>
+        <datestamp>2012-05-23T11:08:24Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51817</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>bouwersi</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7685412</identifier>
+        <datestamp>2012-05-23T10:36:19Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51816</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>bouwersi</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7685384</identifier>
+        <datestamp>2012-05-23T10:36:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51815</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>bouwersi</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7685356</identifier>
+        <datestamp>2012-05-23T10:35:40Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51814</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>bouwersi</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7685086</identifier>
+        <datestamp>2012-05-23T10:34:41Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51812</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>bouwersi</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier>Lukoschus, F.</abcd:Identifier>
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec.</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Malaysia</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Bukit Fraser</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Maleisië, Bukit Fraser
+3.714251,101.737111 google maps</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7684893</identifier>
+        <datestamp>2012-05-23T10:04:49Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51811</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7684867</identifier>
+        <datestamp>2012-05-23T10:04:27Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51810</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>7684841</identifier>
+        <datestamp>2012-05-23T10:04:05Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MAM.51809</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>wet specimen</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Mammalia</abcd:CollectionType>
+            <abcd:PreparationType>alcohol &gt;70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19820101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19821231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Lukoschus, F.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>rattus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>spec</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lukoschus, F.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="259" cursor="200" />
+  </ListRecords>
+</OAI-PMH>

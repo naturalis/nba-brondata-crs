@@ -1,0 +1,4508 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OAI-PMH xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:atlantis="urn:atlantis" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <responseDate>2017-10-13T10:27:02Z</responseDate>
+  <request verb="ListRecords" resumptionToken="2017-01-01T00:00:00Z__2017-07-01T00:00:00Z____oai_crs_object__767000">https://crs.naturalis.nl/atlantispubliek/oai.axd</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>193204082</identifier>
+        <datestamp>2017-01-19T14:09:04Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647463</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193204065</identifier>
+        <datestamp>2017-01-19T14:09:02Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647462</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193204048</identifier>
+        <datestamp>2017-01-19T14:09:00Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647461</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193204031</identifier>
+        <datestamp>2017-01-19T14:08:58Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647460</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193204014</identifier>
+        <datestamp>2017-01-19T14:08:56Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647459</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203997</identifier>
+        <datestamp>2017-01-19T14:08:54Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647458</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203979</identifier>
+        <datestamp>2017-01-19T14:08:52Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647457</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203962</identifier>
+        <datestamp>2017-01-19T14:08:50Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647456</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203945</identifier>
+        <datestamp>2017-01-19T14:08:48Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647455</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203928</identifier>
+        <datestamp>2017-01-19T14:08:46Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647454</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203911</identifier>
+        <datestamp>2017-01-19T14:08:44Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647453</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203894</identifier>
+        <datestamp>2017-01-19T14:08:42Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647452</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203877</identifier>
+        <datestamp>2017-01-19T14:08:40Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647451</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203860</identifier>
+        <datestamp>2017-01-19T14:08:38Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647450</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203843</identifier>
+        <datestamp>2017-01-19T14:08:36Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647449</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203826</identifier>
+        <datestamp>2017-01-19T14:08:34Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647448</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203809</identifier>
+        <datestamp>2017-01-19T14:08:32Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647447</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203792</identifier>
+        <datestamp>2017-01-19T14:08:29Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647446</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203775</identifier>
+        <datestamp>2017-01-19T14:08:27Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647445</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203758</identifier>
+        <datestamp>2017-01-19T14:08:25Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647444</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203741</identifier>
+        <datestamp>2017-01-19T14:08:23Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647443</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203724</identifier>
+        <datestamp>2017-01-19T14:08:21Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647442</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203707</identifier>
+        <datestamp>2017-01-19T14:08:19Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647441</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203690</identifier>
+        <datestamp>2017-01-19T14:08:17Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647440</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203673</identifier>
+        <datestamp>2017-01-19T14:08:15Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647439</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203656</identifier>
+        <datestamp>2017-01-19T14:08:13Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647438</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203639</identifier>
+        <datestamp>2017-01-19T14:08:11Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647437</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203548</identifier>
+        <datestamp>2017-01-19T14:08:09Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647436</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203531</identifier>
+        <datestamp>2017-01-19T14:08:07Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647435</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203513</identifier>
+        <datestamp>2017-01-19T14:08:05Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647434</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203496</identifier>
+        <datestamp>2017-01-19T14:08:03Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647433</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203479</identifier>
+        <datestamp>2017-01-19T14:08:01Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647432</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203258</identifier>
+        <datestamp>2017-01-19T14:07:38Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647421</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203241</identifier>
+        <datestamp>2017-01-19T14:07:36Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647420</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203224</identifier>
+        <datestamp>2017-01-19T14:07:34Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647419</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203206</identifier>
+        <datestamp>2017-01-19T14:07:32Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647418</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203189</identifier>
+        <datestamp>2017-01-19T14:07:30Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647417</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203172</identifier>
+        <datestamp>2017-01-19T14:07:28Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647416</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203155</identifier>
+        <datestamp>2017-01-19T14:07:26Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647415</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203138</identifier>
+        <datestamp>2017-01-19T14:07:24Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647414</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203121</identifier>
+        <datestamp>2017-01-19T14:07:22Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647413</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193203104</identifier>
+        <datestamp>2017-01-19T14:07:20Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647412</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202912</identifier>
+        <datestamp>2017-01-19T14:06:58Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647401</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202895</identifier>
+        <datestamp>2017-01-19T14:06:55Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647400</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202878</identifier>
+        <datestamp>2017-01-19T14:06:54Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647399</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202829</identifier>
+        <datestamp>2017-01-19T14:06:52Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647398</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202812</identifier>
+        <datestamp>2017-01-19T14:06:49Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647397</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202761</identifier>
+        <datestamp>2017-01-19T14:06:47Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647396</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202744</identifier>
+        <datestamp>2017-01-19T14:06:45Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647395</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202727</identifier>
+        <datestamp>2017-01-19T14:06:43Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647394</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202710</identifier>
+        <datestamp>2017-01-19T14:06:41Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647393</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202693</identifier>
+        <datestamp>2017-01-19T14:06:39Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647392</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202504</identifier>
+        <datestamp>2017-01-19T14:06:17Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647381</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202487</identifier>
+        <datestamp>2017-01-19T14:06:15Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647380</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202470</identifier>
+        <datestamp>2017-01-19T14:06:13Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647379</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202453</identifier>
+        <datestamp>2017-01-19T14:06:10Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647378</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202436</identifier>
+        <datestamp>2017-01-19T14:06:08Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647377</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202418</identifier>
+        <datestamp>2017-01-19T14:06:06Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647376</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202401</identifier>
+        <datestamp>2017-01-19T14:06:04Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647375</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202384</identifier>
+        <datestamp>2017-01-19T14:06:02Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647374</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202365</identifier>
+        <datestamp>2017-01-19T14:06:00Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647373</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202348</identifier>
+        <datestamp>2017-01-19T14:05:58Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647372</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202131</identifier>
+        <datestamp>2017-01-19T14:05:38Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647362</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202114</identifier>
+        <datestamp>2017-01-19T14:05:36Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647361</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202097</identifier>
+        <datestamp>2017-01-19T14:05:34Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647360</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202080</identifier>
+        <datestamp>2017-01-19T14:05:32Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647359</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202063</identifier>
+        <datestamp>2017-01-19T14:05:30Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647358</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202046</identifier>
+        <datestamp>2017-01-19T14:05:28Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647357</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202029</identifier>
+        <datestamp>2017-01-19T14:05:26Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647356</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193202012</identifier>
+        <datestamp>2017-01-19T14:05:24Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647355</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193201994</identifier>
+        <datestamp>2017-01-19T14:05:22Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647354</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193201716</identifier>
+        <datestamp>2017-01-19T14:05:20Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647353</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193201696</identifier>
+        <datestamp>2017-01-19T14:05:18Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647352</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193201679</identifier>
+        <datestamp>2017-01-19T14:05:16Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647351</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193201662</identifier>
+        <datestamp>2017-01-19T14:05:14Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647350</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193201645</identifier>
+        <datestamp>2017-01-19T14:05:12Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647349</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193201628</identifier>
+        <datestamp>2017-01-19T14:05:10Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647348</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XXII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193201611</identifier>
+        <datestamp>2017-01-19T14:05:08Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647347</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XX</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193201594</identifier>
+        <datestamp>2017-01-19T14:05:06Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647346</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XI</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193201577</identifier>
+        <datestamp>2017-01-19T14:05:04Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647345</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVI</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193201560</identifier>
+        <datestamp>2017-01-19T14:05:02Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647344</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193201543</identifier>
+        <datestamp>2017-01-19T14:05:00Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.647343</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193154966</identifier>
+        <datestamp>2017-01-19T12:58:39Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645391</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193154949</identifier>
+        <datestamp>2017-01-19T12:58:37Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645390</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193154932</identifier>
+        <datestamp>2017-01-19T12:58:35Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645389</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193154913</identifier>
+        <datestamp>2017-01-19T12:58:33Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645388</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193154896</identifier>
+        <datestamp>2017-01-19T12:58:31Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645387</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193154879</identifier>
+        <datestamp>2017-01-19T12:58:29Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645386</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193154862</identifier>
+        <datestamp>2017-01-19T12:58:27Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645385</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193154845</identifier>
+        <datestamp>2017-01-19T12:58:24Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645384</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193154828</identifier>
+        <datestamp>2017-01-19T12:58:22Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645383</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193154811</identifier>
+        <datestamp>2017-01-19T12:58:20Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645382</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193151360</identifier>
+        <datestamp>2017-01-19T12:53:19Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645241</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193151343</identifier>
+        <datestamp>2017-01-19T12:53:17Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645240</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193151326</identifier>
+        <datestamp>2017-01-19T12:53:15Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645239</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193151309</identifier>
+        <datestamp>2017-01-19T12:53:13Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645238</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193151292</identifier>
+        <datestamp>2017-01-19T12:53:11Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645237</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193151275</identifier>
+        <datestamp>2017-01-19T12:53:08Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645236</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193151258</identifier>
+        <datestamp>2017-01-19T12:53:06Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645235</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>193151241</identifier>
+        <datestamp>2017-01-19T12:53:04Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.645234</abcd:UnitID>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RGM</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Paleontology Vertebrates</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>Sample</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Lebanon</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Ksar Akil</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Lebanon, Ksar Akil. Square/Unit: F4, Layer/Level: XVII</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="777255" cursor="767000">2017-01-01T00:00:00Z__2017-07-01T00:00:00Z____oai_crs_object__767100</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

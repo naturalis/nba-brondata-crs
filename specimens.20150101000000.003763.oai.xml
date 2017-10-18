@@ -1,0 +1,4370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OAI-PMH xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:atlantis="urn:atlantis" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <responseDate>2017-10-11T08:18:42Z</responseDate>
+  <request verb="ListRecords" resumptionToken="2015-01-01T00:00:00Z__2015-07-01T00:00:00Z____oai_crs_object__376300">https://crs.naturalis.nl/atlantispubliek/oai.axd</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>79147385</identifier>
+        <datestamp>2015-05-18T14:09:54Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.1164563</abcd:UnitID>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>thin section</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Petrology</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>thin section</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial />
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Palm</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Sverige</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName />
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=79147381</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>79147372</identifier>
+        <datestamp>2015-05-18T14:10:01Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.1164674</abcd:UnitID>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>thin section</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Petrology</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>thin section</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial />
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Palm</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Sverige</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+            <ncrsNamedAreas>
+              <abcd:AreaClass />
+              <abcd:AreaName />
+            </ncrsNamedAreas>
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName />
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=79147368</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>79147358</identifier>
+        <datestamp>2015-05-18T15:12:22Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.1165034</abcd:UnitID>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>thin section</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Petrology</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>thin section</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial />
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>J.W. v.d. Velden</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Sverige</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+            <ncrsNamedAreas>
+              <abcd:AreaClass />
+              <abcd:AreaName />
+            </ncrsNamedAreas>
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName />
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=79147354</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>79147331</identifier>
+        <datestamp>2015-05-18T14:10:08Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.1164916</abcd:UnitID>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>thin section</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Petrology</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>thin section</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial />
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Palm</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Sverige</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+            <ncrsNamedAreas>
+              <abcd:AreaClass />
+              <abcd:AreaName />
+            </ncrsNamedAreas>
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName />
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=79147327</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>79147305</identifier>
+        <datestamp>2015-05-18T14:09:55Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.1164673</abcd:UnitID>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>thin section</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Petrology</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>thin section</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial />
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Palm</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Sverige</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+            <ncrsNamedAreas>
+              <abcd:AreaClass />
+              <abcd:AreaName />
+            </ncrsNamedAreas>
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName />
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=79147301</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>79147212</identifier>
+        <datestamp>2015-05-18T14:09:48Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.1164786</abcd:UnitID>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>thin section</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Petrology</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>thin section</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial />
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Palm</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Sverige</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+            <ncrsNamedAreas>
+              <abcd:AreaClass />
+              <abcd:AreaName />
+            </ncrsNamedAreas>
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName />
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=79147208</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>79147185</identifier>
+        <datestamp>2015-05-18T14:09:56Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.1164725</abcd:UnitID>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>thin section</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Petrology</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>thin section</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial />
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Palm</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Sverige</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+            <ncrsNamedAreas>
+              <abcd:AreaClass />
+              <abcd:AreaName />
+            </ncrsNamedAreas>
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName />
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=79147181</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>79147173</identifier>
+        <datestamp>2015-05-18T14:10:08Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.1164891</abcd:UnitID>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>thin section</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Petrology</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>thin section</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial />
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Palm</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Sverige</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+            <ncrsNamedAreas>
+              <abcd:AreaClass />
+              <abcd:AreaName />
+            </ncrsNamedAreas>
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName />
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=79147169</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>79147149</identifier>
+        <datestamp>2015-05-18T14:10:26Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.1164840</abcd:UnitID>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>thin section</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Petrology</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>thin section</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial />
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Palm</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Sverige</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+            <ncrsNamedAreas>
+              <abcd:AreaClass />
+              <abcd:AreaName />
+            </ncrsNamedAreas>
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName />
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=79147145</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80133839</identifier>
+        <datestamp>2015-01-20T09:47:13Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1810</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19440819</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19440819</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Conopeum</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>reticulum</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Vervoort, W.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Piertje bij Westerland, Wieringen</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80133835</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80133817</identifier>
+        <datestamp>2015-01-13T18:06:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.805</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80133813</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80133761</identifier>
+        <datestamp>2015-01-13T18:06:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1314</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80133757</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80133741</identifier>
+        <datestamp>2015-01-13T18:05:59Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.760</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80133737</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80133729</identifier>
+        <datestamp>2015-01-23T16:07:33Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2660</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19361003</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19361003</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Electra</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>pilosa</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lacourt, A.W.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>80 mijl t. NW. van IJmuiden</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80133725</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80133716</identifier>
+        <datestamp>2015-01-13T18:05:59Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1775</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80133712</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80133676</identifier>
+        <datestamp>2015-01-26T09:13:55Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.225</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Crisia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>eburnea</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Nederland</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Scheveningen</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80133672</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80133664</identifier>
+        <datestamp>2015-01-13T18:05:59Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1597</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80133660</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80133652</identifier>
+        <datestamp>2015-01-13T18:05:58Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1230</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80133648</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80133632</identifier>
+        <datestamp>2015-01-27T14:45:48Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2744</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19381015</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19381015</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Celleporella</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>hyalina </abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lacourt, A.W.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Nederland</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Katwijk a/zee, Zuid-Holland</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80133628</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80133620</identifier>
+        <datestamp>2015-01-13T18:05:58Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1651</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80133614</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80133605</identifier>
+        <datestamp>2015-01-13T18:05:58Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1127</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80133601</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80129438</identifier>
+        <datestamp>2015-01-28T11:06:28Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2470</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19471019</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19471019</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Stephanosella </abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>biaperta </abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Michelin</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Meulen, H. v.d.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Strand Kijkduin</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80129434</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80129426</identifier>
+        <datestamp>2015-01-13T18:05:06Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.570</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80129422</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80129414</identifier>
+        <datestamp>2015-01-13T18:05:06Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.902</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80129410</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80129399</identifier>
+        <datestamp>2015-01-13T18:05:06Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1565</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80129395</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80129387</identifier>
+        <datestamp>2015-01-13T18:05:06Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.111</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80129383</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80129347</identifier>
+        <datestamp>2015-01-13T18:05:05Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2926</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80129343</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80129335</identifier>
+        <datestamp>2015-01-13T18:05:05Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.826</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80129331</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80129311</identifier>
+        <datestamp>2015-01-20T16:54:10Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1833</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19381215</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19381215</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Electra</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>pilosa</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3>f. dentata</abcd:IdentificationQualifier3>
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Nederland</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Wassenaar</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80129307</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80129298</identifier>
+        <datestamp>2015-01-13T18:05:04Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1441</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80129294</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80129274</identifier>
+        <datestamp>2015-01-13T18:05:04Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1756</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80129270</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80129262</identifier>
+        <datestamp>2015-01-23T14:12:25Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2643</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19351215</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19351215</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Flustra</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>foliacea</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lacourt, A.W.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Zandvoort-Noordwijk</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80129258</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80129250</identifier>
+        <datestamp>2015-01-13T18:05:04Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.3003</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80129246</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80129238</identifier>
+        <datestamp>2015-01-21T11:59:34Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.485</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Micropora</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>elongata</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Hincks</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Vigelius, W.J.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Australia</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Port Western Victoria Australië</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName>coll. W.J. Vigelius</abcd:PreviousSourceName>
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80129234</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80129226</identifier>
+        <datestamp>2015-01-13T18:05:04Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.322</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80129222</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80124955</identifier>
+        <datestamp>2015-01-13T18:04:09Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1042</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80124951</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80124926</identifier>
+        <datestamp>2015-01-28T13:38:42Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2412</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19381012</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19381012</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Lichenopora </abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>hispida</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Fleming</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Bloklander, A.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80124922</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80124914</identifier>
+        <datestamp>2015-01-13T18:04:08Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2860</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80124910</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80124874</identifier>
+        <datestamp>2015-01-20T09:41:33Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1166</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19600826</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19600826</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Scrupocellaria</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>scruposa</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Nederland</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Katwijk, paal 90.</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80124870</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80124862</identifier>
+        <datestamp>2015-01-13T18:04:08Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1610</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80124858</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80124799</identifier>
+        <datestamp>2015-01-13T18:04:07Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1748</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80124795</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80124787</identifier>
+        <datestamp>2015-01-13T18:04:07Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1329</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80124783</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80124775</identifier>
+        <datestamp>2015-01-13T18:04:07Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.838</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80124771</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80124763</identifier>
+        <datestamp>2015-01-13T18:04:07Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2938</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80124759</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80124751</identifier>
+        <datestamp>2015-01-13T18:04:06Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.33</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80124747</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80124739</identifier>
+        <datestamp>2015-01-20T09:54:13Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1799</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Smittia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>affinis</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Hincks</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Eng. kanaal</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80124735</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80124725</identifier>
+        <datestamp>2015-01-13T18:04:06Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2867</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80124721</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80124701</identifier>
+        <datestamp>2015-01-21T14:48:24Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.515</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Pterocella</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>alata</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Wyv. Thompson</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Vigelius, W.J.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Australia</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Port Western Victoria, Australië</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName>coll. W.J. Vigelius</abcd:PreviousSourceName>
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80124697</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80124689</identifier>
+        <datestamp>2015-01-13T18:04:06Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.967</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80124685</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80120361</identifier>
+        <datestamp>2015-01-13T18:03:11Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.856</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80120357</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80120341</identifier>
+        <datestamp>2015-01-13T18:03:11Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1431</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80120337</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80120317</identifier>
+        <datestamp>2015-01-13T18:03:11Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1396</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80120313</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80120285</identifier>
+        <datestamp>2015-01-13T18:03:10Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.887</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80120281</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80120271</identifier>
+        <datestamp>2015-02-02T15:12:01Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.352</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Hincksina</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>flustroides</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Hincks</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Norman</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Guernsey</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80120267</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80120259</identifier>
+        <datestamp>2015-01-13T18:03:10Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2987</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80120255</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80120235</identifier>
+        <datestamp>2015-01-13T18:03:10Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1081</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80120231</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80120223</identifier>
+        <datestamp>2015-01-13T18:03:10Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1726</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80120219</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80120199</identifier>
+        <datestamp>2015-01-23T11:06:28Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2633</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19760310</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19760310</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle>"Onversaagd" Madeira-Marokko Exp.</abcd:ProjectTitle>
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Lichenopora</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1>sp.</abcd:IdentificationQualifier1>
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>"Onversaagd" Madeira-Marokko Exp.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Sta. 40. SE of Madeira, 32°44'N,
+16°44'W, depth 56m, sand, shells, van Veen grab.</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80120195</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80120187</identifier>
+        <datestamp>2015-01-13T18:03:09Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.3073</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80120183</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80120175</identifier>
+        <datestamp>2015-01-13T18:03:09Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1108</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80120171</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80120160</identifier>
+        <datestamp>2015-01-13T18:03:09Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.21</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80120156</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80120140</identifier>
+        <datestamp>2015-01-13T18:03:09Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2558</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80120136</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80120128</identifier>
+        <datestamp>2015-01-21T09:38:04Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.458</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Spiralaria</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>florea</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Busk</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Vigelius, W.J.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Australia</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Port Western Victoria, Australie</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName>coll. W.J. Vigelius</abcd:PreviousSourceName>
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80120124</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80115949</identifier>
+        <datestamp>2015-01-13T18:02:17Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1240</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80115945</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80115937</identifier>
+        <datestamp>2015-01-13T18:02:17Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1536</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80115933</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80115925</identifier>
+        <datestamp>2015-01-13T18:02:17Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1291</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80115921</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80115912</identifier>
+        <datestamp>2015-01-13T18:02:16Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.951</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80115908</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80115888</identifier>
+        <datestamp>2015-01-23T08:53:42Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.284</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Eucratea</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>loricata</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Noordzee</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80115884</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80115864</identifier>
+        <datestamp>2015-01-13T18:02:16Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2851</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80115860</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80115832</identifier>
+        <datestamp>2015-02-20T09:22:06Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.142</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Flustra</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>foliacea</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Hollandse kust</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80115828</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80115820</identifier>
+        <datestamp>2015-01-13T18:02:15Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.809</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80115816</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80115794</identifier>
+        <datestamp>2015-01-13T18:02:15Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1779</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80115790</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80115782</identifier>
+        <datestamp>2015-01-13T18:02:15Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1318</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80115778</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80115746</identifier>
+        <datestamp>2015-01-27T13:35:39Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2799</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19780101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19781231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Membraniporella</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>nitida</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Johnston</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lacourt, A.W.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Domburg, Walcheren, Zeeland.</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80115742</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80115734</identifier>
+        <datestamp>2015-01-13T18:02:14Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.699</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80115730</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80115714</identifier>
+        <datestamp>2015-02-17T14:39:31Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1860</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Crisia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>aculeata</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Hassal</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Scheveningen</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80115710</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80115692</identifier>
+        <datestamp>2015-01-13T18:02:14Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2975</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80115688</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80111473</identifier>
+        <datestamp>2015-01-13T18:01:23Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.60</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80111469</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80111461</identifier>
+        <datestamp>2015-01-13T18:01:23Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1554</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80111457</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80111441</identifier>
+        <datestamp>2015-01-28T08:43:28Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2441</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19510422</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19510422</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Schizomavella</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>linearis</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Hassall</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lucas, J.A.W.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Strand Katwijk, paal 86</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80111437</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80111429</identifier>
+        <datestamp>2015-01-21T16:28:12Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.541</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tubiporella</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>magnirostris</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>MacGillivray</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Vigelius, W.J.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Australia</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Port Phillip Heads, Victoria, Australië</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName>coll. W.J. Vigelius</abcd:PreviousSourceName>
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80111425</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80111414</identifier>
+        <datestamp>2015-01-13T18:01:22Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1692</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80111410</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80111402</identifier>
+        <datestamp>2015-01-13T18:01:22Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1135</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80111398</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80111390</identifier>
+        <datestamp>2015-01-13T18:01:22Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.687</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80111386</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80111378</identifier>
+        <datestamp>2015-01-13T18:01:22Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.120</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80111374</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80111311</identifier>
+        <datestamp>2015-01-22T08:55:58Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2490</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19501022</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19501022</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tubulipora</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>liliacea </abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Pallas</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lucas, J.A.W.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Strand Noordwijk-Zuid</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80111307</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80111299</identifier>
+        <datestamp>2015-01-13T18:01:21Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1585</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80111295</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80111287</identifier>
+        <datestamp>2015-01-13T18:01:21Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.709</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80111283</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80111275</identifier>
+        <datestamp>2015-01-13T18:01:20Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.3049</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80111271</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80111239</identifier>
+        <datestamp>2015-01-20T11:59:18Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.368</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tessaradoma</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>boreale</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Busk</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>British Museum (Natural History)</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Shetland Eil.</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName>British Museum (Natural History)</abcd:PreviousSourceName>
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80111235</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80111227</identifier>
+        <datestamp>2015-01-13T18:01:20Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.3098</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80111223</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80107073</identifier>
+        <datestamp>2015-01-13T18:00:28Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.1234</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80107069</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80107053</identifier>
+        <datestamp>2015-01-28T11:56:15Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2486</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Bryozoa</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19510422</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19510422</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Tubulipora </abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>liliacea </abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Pallas</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Lucas, J.A.W.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>Strand Katwijk</abcd:LocalityText>
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80107049</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80107041</identifier>
+        <datestamp>2015-01-13T18:00:28Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.586</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80107037</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80107029</identifier>
+        <datestamp>2015-01-13T18:00:28Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.557</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80107025</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80107017</identifier>
+        <datestamp>2015-01-13T18:00:28Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.2825</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80107013</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80106983</identifier>
+        <datestamp>2015-01-13T18:00:27Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.691</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80106979</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80106955</identifier>
+        <datestamp>2015-01-13T18:00:27Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.3089</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80106951</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80106943</identifier>
+        <datestamp>2015-01-13T18:00:27Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.718</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80106939</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80106931</identifier>
+        <datestamp>2015-01-13T18:00:27Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.BRY.3058</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount />
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Invertebrates</abcd:CollectionType>
+            <abcd:PreparationType />
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RMNH.BRY</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80106927</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="1567066" cursor="376300">2015-01-01T00:00:00Z__2015-07-01T00:00:00Z____oai_crs_object__376400</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,4243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OAI-PMH xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:atlantis="urn:atlantis" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <responseDate>2017-10-13T04:42:29Z</responseDate>
+  <request verb="ListRecords" resumptionToken="2017-01-01T00:00:00Z__2017-07-01T00:00:00Z____oai_crs_object__388800">https://crs.naturalis.nl/atlantispubliek/oai.axd</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>51608657</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.924468</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Cladiscites</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>gorgiae</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Gemmellaro</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum>var. cordeis Gemmellaro</abcd:NameAddendum>
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Ammonoidea</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>subclass</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>van Voorthuyzen</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island>Timor</abcd:Island>
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51608653</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51734678</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.925039</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Lamellibrachia</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Koenen</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>España</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51734674</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51705075</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.924467</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Cladiscites</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>gorgiae</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Gemmellaro</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Ammonoidea</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>subclass</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>van Voorthuyzen</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island>Timor</abcd:Island>
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51705071</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51549396</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.922532</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Geologisch Instituut der Universiteit van Amsterdam</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsCollector>
+            <abcd:GatheringAgent>De Buisonje</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Nederlandse Antillen</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+            <ncrsNamedAreas>
+              <abcd:AreaClass>hill</abcd:AreaClass>
+              <abcd:AreaName>Dochila</abcd:AreaName>
+            </ncrsNamedAreas>
+          </ncrsGatheringSites>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51549392</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51644334</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.923898</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Geologisch Instituut Universiteit van Amsterdam</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Jamaica</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51644330</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51454644</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.924633</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Lonchodina</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>nitela</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Huddle 1934</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2>cf.</abcd:IdentificationQualifier2>
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Conodonta</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>v.d. Boogaard</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51454640</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51482978</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.923970</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Geologisch Instituut Universiteit van Amsterdam</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Jamaica</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51482974</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51655167</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.924631</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Ligonodina</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>monodentata</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Bischoff &amp; Ziegler</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Conodonta</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>v.d. Boogaard</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51655163</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80252023</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373350</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80252019</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80252011</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373669</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80252007</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251999</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373513</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251995</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251987</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373604</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251983</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251975</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373265</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251971</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251963</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373678</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251959</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251951</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373720</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251947</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251939</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373341</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251935</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251927</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373437</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251923</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251915</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373390</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251911</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251903</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373568</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251899</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251891</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373727</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251887</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251879</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373346</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251875</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251867</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373397</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251863</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251855</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373430</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251851</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251843</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373514</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251839</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251831</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373603</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251827</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251819</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373262</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251815</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251807</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373566</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251803</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251795</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373671</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251791</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251783</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373729</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251779</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247982</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373797</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247978</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247970</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373451</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247966</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247958</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373823</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247954</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247946</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373480</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247942</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247934</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373327</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247930</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247922</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373746</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247918</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247910</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373509</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247906</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247898</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373418</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247894</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247886</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373540</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247882</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247874</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373686</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247870</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247862</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373657</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247858</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247850</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373591</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247846</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247838</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373236</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247834</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247826</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373773</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247822</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247814</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373312</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247810</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247802</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373464</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247798</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247790</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373816</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247786</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247778</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373774</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247774</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247766</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373315</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247762</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247754</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373811</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247750</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247742</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373463</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247738</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51512757</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.923414</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial />
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage />
+              <abcd:HigherTaxonRank />
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>J.T. v. Gorsel</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>France</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName />
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51512753</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51628963</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.924453</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Gonionotites</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>waldthauseniae</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Welter</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Ammonoidea</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>subclass</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>van Voorthuyzen</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island>Timor</abcd:Island>
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51628959</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51505676</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.923413</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial />
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage />
+              <abcd:HigherTaxonRank />
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>J.T. v. Gorsel</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>France</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName />
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51505672</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51584917</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.924450</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Gonionotites</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>waldthauseniae</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Welter</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Ammonoidea</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>subclass</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>van Voorthuyzen</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island>Timor</abcd:Island>
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51584913</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>83395543</identifier>
+        <datestamp>2017-05-04T15:16:22Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MOL.109408</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Mollusca</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Gittenberger, E.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Carinigera (Nymphogena) praecipua serviana Nordsieck, 1972</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Carinigera</abcd:GenusOrMonomial>
+            <abcd:Subgenus>Nymphogena</abcd:Subgenus>
+            <abcd:SpeciesEpithet>praecipua</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>serviana</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Nordsieck, 1972</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier>D.Uit de Weerd</abcd:Identifier>
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Mollusca</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Gastropoda</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Clausiliidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Alopiinae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>subfamily</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Gittenberger, E.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Greece</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>EG.9314: Greece, Makedonia, Kozani, 2 km SW of Drepano (= 2 km ENE of Kozani); low rocky limestone hill, 700 m alt.; 8.iv.1993</abcd:LocalityText>
+            <abcd:SiteType>Location collected</abcd:SiteType>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>83395508</identifier>
+        <datestamp>2017-05-09T16:09:36Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MOL.109407</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Mollusca</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>shell</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Gittenberger, E. &amp; Weerd, D. uit de</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Carinigera (Nymphogena) praecipua praecipua (Sajo, 1968)</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Carinigera</abcd:GenusOrMonomial>
+            <abcd:Subgenus>Nymphogena</abcd:Subgenus>
+            <abcd:SpeciesEpithet>praecipua</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>praecipua</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Sajo, 1968</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier>D.Uit de Weerd</abcd:Identifier>
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Mollusca</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Gastropoda</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Clausiliidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Alopiinae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>subfamily</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Gittenberger, E. &amp; Weerd, D. uit de</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Greece</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>GU.9920: Greece, Makedonia, Kozani, Kozani - Veroia [= Veria], 5 km (along road) NE. of Polimilos (= 26 km ENE. of Kozani); 1200m alt.; 23.v.1999</abcd:LocalityText>
+            <abcd:SiteType>Location collected</abcd:SiteType>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>83383948</identifier>
+        <datestamp>2017-05-09T13:57:39Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MOL.109132</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Mollusca</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>shell</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Chondrina tenuimarginata (Des Moulins, 1835)</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Chondrina</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>tenuimarginata</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Des Moulins, 1835</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier>Gittenberger, E.</abcd:Identifier>
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Mollusca</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Gastropoda</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Chondrinidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Gittenberger, E. &amp; Kokshoorn, B.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Spain</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>GK.0530: Spain, Cataluña, Barcelona, along road BV4024 (Baga - Coll de Pal) at rkm 1 N of Baga; 950 m alt.; 19.v.2005. UTM DG0580</abcd:LocalityText>
+            <abcd:SiteType>Location collected</abcd:SiteType>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>83375616</identifier>
+        <datestamp>2017-05-19T15:03:34Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MOL.108936</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Mollusca</abcd:CollectionType>
+            <abcd:PreparationType>alcohol 70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>20050913</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle>BTS-survey,,  VESSEL: Tridens</abcd:ProjectTitle>
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>A. de Heij</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Sepiola atlantica d'Orbigny, 1839-1842</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Sepiola</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>atlantica</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>D'Orbigny, 1839</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier>A. de Heij &amp; J. Goud</abcd:Identifier>
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Mollusca</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Cephalopoda</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sepiolidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sepiolinae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>subfamily</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Sepiola atlantica d'Orbigny, 1842</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Sepiola</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>atlantica</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>D'Orbigny, 1839</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier>A. de Heij &amp; J. Goud</abcd:Identifier>
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Mollusca</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Cephalopoda</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sepiolidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sepiolinae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>subfamily</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Sepiola atlantica d'Orbigny, 1842</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Sepiola</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>atlantica</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>D'Orbigny, 1839</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier>A. de Heij &amp; J. Goud</abcd:Identifier>
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Mollusca</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Cephalopoda</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sepiolidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sepiolinae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>subfamily</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality>blok 35F1, trek 64</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>BTS.200564: North Sea, blok 35F1, trek 64;  53°22.29'N 1°51.54'E;  depth: 26m; 13.ix.2005</abcd:LocalityText>
+            <abcd:SiteType>Location collected</abcd:SiteType>
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal />
+              <abcd:LongitudeDecimal />
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+            <ncrsNamedAreas>
+              <abcd:AreaClass>sea</abcd:AreaClass>
+              <abcd:AreaName>North Sea</abcd:AreaName>
+            </ncrsNamedAreas>
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName>RIVO</abcd:PreviousSourceName>
+          </ncrsCollectionUnitHistory>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>83371469</identifier>
+        <datestamp>2017-05-19T15:03:37Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MOL.108846.1</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Mollusca</abcd:CollectionType>
+            <abcd:PreparationType>alcohol 70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>RIVO-Tridens, BTS-survey, A. de Heij,, 2005</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Sepiola aurantiaca Jatta, 1896</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Sepiola</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>aurantiaca</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Jatta, 1896</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier>Goud &amp; de Heij</abcd:Identifier>
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Mollusca</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Cephalopoda</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sepiolidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sepiolinae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>subfamily</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Sepiola pfefferi Grimpe, 1921</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Sepiola</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>pfefferi</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Grimpe, 1921</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier>A. de Heij</abcd:Identifier>
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Mollusca</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Cephalopoda</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sepiolidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sepiolinae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>subfamily</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>RIVO-Tridens, BTS-survey, A. de Heij,, 2005</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>BTS.200515: North Sea, 57°44.91'N 1°21.47'W; blok 44E8, trek 15; depth 90 m; 26.viii.2005</abcd:LocalityText>
+            <abcd:SiteType>Location collected</abcd:SiteType>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>83371388</identifier>
+        <datestamp>2017-05-19T15:03:38Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.MOL.108845</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>Not applicable</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Mollusca</abcd:CollectionType>
+            <abcd:PreparationType>alcohol 70%</abcd:PreparationType>
+            <abcd:KindOfUnit>WholeOrganism</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>RIVO-Tridens, IBTS-survey, A. de Heij,, 2005</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Sepiola aurantiaca Jatta, 1896</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Sepiola</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>aurantiaca</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Jatta, 1896</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier>Goud &amp; de Heij</abcd:Identifier>
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Mollusca</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Cephalopoda</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sepiolidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sepiolinae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>subfamily</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Sepiola pfefferi Grimpe, 1921</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Sepiola</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>pfefferi</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Grimpe, 1921</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier>A. de Heij</abcd:Identifier>
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Mollusca</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Cephalopoda</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sepiolidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sepiolinae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>subfamily</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>RIVO-Tridens, IBTS-survey, A. de Heij,, 2005</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText>IBTS.200509: North Sea, 53°11.13'N 1°76.27'E; blok 35F1, trek 9; depth 38 m; 26.i.2005</abcd:LocalityText>
+            <abcd:SiteType>Location collected</abcd:SiteType>
+            <ncrsNamedAreas>
+              <abcd:AreaClass>sea</abcd:AreaClass>
+              <abcd:AreaName>North Sea</abcd:AreaName>
+            </ncrsNamedAreas>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51456144</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.922772</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Geologisch Instituut der Universiteit van Amsterdam</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsCollector>
+            <abcd:GatheringAgent>De Buisonje</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Nederlandse Antillen</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51456140</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51591555</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.922768</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Geologisch Instituut der Universiteit van Amsterdam</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsCollector>
+            <abcd:GatheringAgent>De Buisonje</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Nederlandse Antillen</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Boea Washikemba</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51591551</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51646727</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.923331</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial />
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage />
+              <abcd:HigherTaxonRank />
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>J.T. v. Gorsel</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>France</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName />
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51646723</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51673689</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.923328</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial />
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage />
+              <abcd:HigherTaxonRank />
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>v. Gorsel</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>France</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName />
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51673685</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51459468</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.924392</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Anatomites</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>brochiiformis</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Welter</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Ammonoidea</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>subclass</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>van Voorthuyzen</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country />
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island>Timor</abcd:Island>
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51459464</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51592571</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.922527</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Geologisch Instituut der Universiteit van Amsterdam</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsCollector>
+            <abcd:GatheringAgent>De Buisonje</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Nederlandse Antillen</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+            <ncrsNamedAreas>
+              <abcd:AreaClass>cave</abcd:AreaClass>
+              <abcd:AreaName>Rincon</abcd:AreaName>
+            </ncrsNamedAreas>
+          </ncrsGatheringSites>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51592567</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51518853</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.923895</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Geologisch Instituut Universiteit van Amsterdam</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Jamaica</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51518849</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51544699</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.923309</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial />
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear />
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage />
+              <abcd:HigherTaxonRank />
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>v. Gorsel</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>France</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+          </ncrsGatheringSites>
+          <ncrsCollectionUnitHistory>
+            <abcd:PreviousSourceName />
+          </ncrsCollectionUnitHistory>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51544695</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51442187</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.924556</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString />
+            <abcd:GenusOrMonomial>Spathognathodus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>crassidentatus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Branson &amp; Mehl</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Conodonta</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>v.d. Boogaard</abcd:GatheringAgent>
+          </ncrsCollector>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51442183</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51489135</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.922562</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Geologisch Instituut der Universiteit van Amsterdam</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsCollector>
+            <abcd:GatheringAgent>De Buisonje</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Nederlandse Antillen</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+            <ncrsNamedAreas>
+              <abcd:AreaClass>unknown</abcd:AreaClass>
+              <abcd:AreaName>S. Mei Mei</abcd:AreaName>
+            </ncrsNamedAreas>
+          </ncrsGatheringSites>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51489131</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>51686088</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.922561</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit>unknown</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate />
+            <abcd:CollectingEndDate />
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Geologisch Instituut der Universiteit van Amsterdam</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsCollector>
+            <abcd:GatheringAgent>De Buisonje</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Nederlandse Antillen</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality />
+            <abcd:Island />
+            <abcd:LocalityText />
+            <abcd:SiteType />
+            <ncrsNamedAreas>
+              <abcd:AreaClass>unknown</abcd:AreaClass>
+              <abcd:AreaName>S. Mei Mei</abcd:AreaName>
+            </ncrsNamedAreas>
+          </ncrsGatheringSites>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=51686084</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251770</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373348</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251766</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251758</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373399</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251754</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251746</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373755</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251742</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251734</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373493</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251730</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251722</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373334</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251718</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251710</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373442</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251706</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251698</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373784</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251694</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251686</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373752</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251682</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251674</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373333</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251670</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251662</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373494</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251658</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251650</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373445</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251646</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251638</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373783</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251634</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251626</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373561</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251622</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251614</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373676</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251610</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251602</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373439</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251598</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251590</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373528</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251586</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251578</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373802</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251574</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251566</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373470</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251562</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251554</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373306</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251550</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251542</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373767</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251538</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80251530</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373222</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80251526</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247730</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373708</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247726</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247718</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373369</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247714</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247706</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373547</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247702</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247694</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373681</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247690</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247682</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373650</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247678</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247670</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373231</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247666</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247658</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373596</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247654</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>80247646</identifier>
+        <datestamp>2017-06-29T14:42:00Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RGM.373535</abcd:UnitID>
+            <abcd:RecordBasis>FossilSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>microscopic slide</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+            <abcd:PreparationType>fossilized</abcd:PreparationType>
+            <abcd:KindOfUnit />
+          </ncrsSpecimen>
+          <abcd:Title>RGM</abcd:Title>
+          <abcd:Url>
+                    http://crs.naturalis.nl/HttpHandler/icoon.ico?file=80247642</abcd:Url>
+          <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+          <abcd:fileuri />
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="777255" cursor="388800">2017-01-01T00:00:00Z__2017-07-01T00:00:00Z____oai_crs_object__388900</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,1613 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OAI-PMH xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:atlantis="urn:atlantis" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <responseDate>2017-10-14T07:30:16Z</responseDate>
+  <request verb="ListRecords" resumptionToken="2015-07-01T00:00:00Z__2016-01-01T00:00:00Z____oai_crs_object__740500">https://crs.naturalis.nl/atlantispubliek/oai.axd</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>136750988</identifier>
+        <datestamp>2015-09-02T18:40:58Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.AVES.177755</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Aves</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>egg</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19301205</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19301205</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Verbeek, F.A.Th.H.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Spizaetus cirrhatus limnaeetus</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Spizaetus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>cirrhatus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>limnaeetus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Horsfield, 1821</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText>No</abcd:NomenclaturalTypeText>
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString>Indische Kuifarend</abcd:InformalNameString>
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Accipitridae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Spizaetus cirrhatus limnaeetus Horsfield, 1821</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Spizaetus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>cirrhatus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>limnaeetus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Horsfield, 1821</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Verbeek, F.A.Th.H.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Indonesia</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Semarang residency, C Java</abcd:Locality>
+            <abcd:Island>Java</abcd:Island>
+            <abcd:LocalityText>Semarang Residency</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal>-7.15</abcd:LatitudeDecimal>
+              <abcd:LongitudeDecimal>110.667</abcd:LongitudeDecimal>
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>136741962</identifier>
+        <datestamp>2015-09-02T18:40:58Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.AVES.177725</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Aves</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>egg</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>3</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19321005</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19321005</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Verbeek, F.A.Th.H</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Psittacula alexandri alexandri</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Psittacula</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>alexandri</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>alexandri</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText>No</abcd:NomenclaturalTypeText>
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString>Alexanderparkiet</abcd:InformalNameString>
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Psittacidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Psittacula alexandri alexandri Linnaeus, 1758</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Psittacula</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>alexandri</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>alexandri</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Verbeek, F.A.Th.H</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Indonesia</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Semarang residency, C Java</abcd:Locality>
+            <abcd:Island>Java</abcd:Island>
+            <abcd:LocalityText>Semarang Residency</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal>-7.15</abcd:LatitudeDecimal>
+              <abcd:LongitudeDecimal>110.667</abcd:LongitudeDecimal>
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>136740010</identifier>
+        <datestamp>2015-09-02T18:40:57Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.AVES.177674</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Aves</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>egg</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19320402</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19320402</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Verbeek, F.A.Th.H.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Lonchura punctulata punctulata</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Lonchura</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>punctulata</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>punctulata</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText>No</abcd:NomenclaturalTypeText>
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString>Muskaatvink</abcd:InformalNameString>
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Estrildidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Lonchura punctulata punctulata Temminck, 1830</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Lonchura</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>punctulata</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>punctulata</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Temminck, 1830</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Verbeek, F.A.Th.H.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Indonesia</abcd:Country>
+            <abcd:ProvinceState />
+            <abcd:Locality>Semarang residency, C Java</abcd:Locality>
+            <abcd:Island>Java</abcd:Island>
+            <abcd:LocalityText>Semarang residency</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal>-7.15</abcd:LatitudeDecimal>
+              <abcd:LongitudeDecimal>110.667</abcd:LongitudeDecimal>
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>136533360</identifier>
+        <datestamp>2015-09-02T18:40:02Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.AVES.17343</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Aves</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>egg</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>4</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19370427</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19370427</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>De Vries, Tsj. Gs.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Haematopus ostralegus ostralegus</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Haematopus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>ostralegus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>ostralegus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText>No</abcd:NomenclaturalTypeText>
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString>Scholekster</abcd:InformalNameString>
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Haematopodidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Haematopus ostralegus ostralegus Linnaeus, 1758</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Haematopus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>ostralegus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>ostralegus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>De Vries, Tsj. Gs.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Netherlands</abcd:Country>
+            <abcd:ProvinceState>Fryslân</abcd:ProvinceState>
+            <abcd:Locality>Rauwerd/Raerd area</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Rauwerd omgeving</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal>53.0833</abcd:LatitudeDecimal>
+              <abcd:LongitudeDecimal>5.75</abcd:LongitudeDecimal>
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>136533070</identifier>
+        <datestamp>2015-09-02T18:40:02Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.AVES.17334</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Aves</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>egg</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>3</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19290514</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19290514</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>De Vries, Tsj. Gs.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Haematopus ostralegus ostralegus</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Haematopus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>ostralegus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>ostralegus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText>No</abcd:NomenclaturalTypeText>
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString>Scholekster</abcd:InformalNameString>
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Haematopodidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Haematopus ostralegus ostralegus Linnaeus, 1758</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Haematopus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>ostralegus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>ostralegus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>De Vries, Tsj. Gs.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Netherlands</abcd:Country>
+            <abcd:ProvinceState>Fryslân</abcd:ProvinceState>
+            <abcd:Locality>Tietjerk/Tytsjerk, Louwsmeerpolder SW of -</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Suawoude, Louwsmeer</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal>53.1833</abcd:LatitudeDecimal>
+              <abcd:LongitudeDecimal>5.9</abcd:LongitudeDecimal>
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>136532743</identifier>
+        <datestamp>2015-09-02T18:40:02Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.AVES.17324</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Aves</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>egg</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>3</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19280427</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19280427</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>De Vries, Tsj. Gs.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Haematopus ostralegus ostralegus</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Haematopus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>ostralegus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>ostralegus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText>No</abcd:NomenclaturalTypeText>
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString>Scholekster</abcd:InformalNameString>
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Haematopodidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Haematopus ostralegus ostralegus Linnaeus, 1758</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Haematopus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>ostralegus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>ostralegus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>De Vries, Tsj. Gs.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Netherlands</abcd:Country>
+            <abcd:ProvinceState>Fryslân</abcd:ProvinceState>
+            <abcd:Locality>Wartena/Warten area</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Wartena omgeving</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal>53.1333</abcd:LatitudeDecimal>
+              <abcd:LongitudeDecimal>5.9</abcd:LongitudeDecimal>
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>136526756</identifier>
+        <datestamp>2015-09-02T18:40:00Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.AVES.17183</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Aves</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>egg</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>5</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19360506</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19360506</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>De Vries, Tsj. Gs.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Phalacrocorax carbo sinensis</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Phalacrocorax</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>carbo</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>sinensis</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Blumenbach, 1798</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText>No</abcd:NomenclaturalTypeText>
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString>Aalschover</abcd:InformalNameString>
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Phalacrocoracidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Phalacrocorax carbo sinensis Blumenbach, 1798</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Phalacrocorax</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>carbo</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>sinensis</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Blumenbach, 1798</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>De Vries, Tsj. Gs.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Netherlands</abcd:Country>
+            <abcd:ProvinceState>Fryslân</abcd:ProvinceState>
+            <abcd:Locality>Rijs, Rijster Bos</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Rijster Bos</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal>52.85</abcd:LatitudeDecimal>
+              <abcd:LongitudeDecimal>5.4833</abcd:LongitudeDecimal>
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>136504887</identifier>
+        <datestamp>2015-09-02T18:39:57Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.AVES.16950</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Aves</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>egg</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>5</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19280616</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19280616</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>De Vries, Tsj. Gs.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Circus aeruginosus aeruginosus</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Circus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>aeruginosus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>aeruginosus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText>No</abcd:NomenclaturalTypeText>
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString>Bruine Kiekendief</abcd:InformalNameString>
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Accipitridae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Circus aeruginosus aeruginosus Linnaeus, 1758</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Circus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>aeruginosus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>aeruginosus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>De Vries, Tsj. Gs.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Netherlands</abcd:Country>
+            <abcd:ProvinceState>Fryslân</abcd:ProvinceState>
+            <abcd:Locality>Tietjerk/Tytsjerk area</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Tietjerk, near-</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal>53.2</abcd:LatitudeDecimal>
+              <abcd:LongitudeDecimal>5.9</abcd:LongitudeDecimal>
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>136488094</identifier>
+        <datestamp>2015-09-02T18:39:52Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.AVES.16563</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Aves</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>egg</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>4</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19090609</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19090609</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>De Vries, Tsj. Gs.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Acrocephalus scirpaceus scirpaceus</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Acrocephalus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>scirpaceus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>scirpaceus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Hermann, 1804</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText>No</abcd:NomenclaturalTypeText>
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString>Kleine Karekiet</abcd:InformalNameString>
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sylviidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Acrocephalus scirpaceus scirpaceus Hermann, 1804</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Acrocephalus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>scirpaceus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>scirpaceus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Hermann, 1804</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>De Vries, Tsj. Gs.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Netherlands</abcd:Country>
+            <abcd:ProvinceState>Fryslân</abcd:ProvinceState>
+            <abcd:Locality>Rijperkerk/Ryptsjerk</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Rijperkerk</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal>53.2167</abcd:LatitudeDecimal>
+              <abcd:LongitudeDecimal>5.9</abcd:LongitudeDecimal>
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>136484705</identifier>
+        <datestamp>2015-09-02T18:39:50Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.AVES.16470</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Aves</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>egg</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>6</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19210511</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19210511</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>De Vries, Tsj. Gs.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Phylloscopus collybita collybita</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Phylloscopus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>collybita</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>collybita</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Vieillot, 1817</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText>No</abcd:NomenclaturalTypeText>
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString>Tjiftjaf</abcd:InformalNameString>
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sylviidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Phylloscopus collybita collybita Vieillot, 1817</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Phylloscopus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>collybita</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>collybita</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Vieillot, 1817</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Not stated</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Poland</abcd:Country>
+            <abcd:ProvinceState>Lubuskie</abcd:ProvinceState>
+            <abcd:Locality>Lasko ('Hochzeit') forestry, Grossen Segelin See</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Grossen Segelin See, Neumark</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal>53.0833</abcd:LatitudeDecimal>
+              <abcd:LongitudeDecimal>15.9667</abcd:LongitudeDecimal>
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>136466358</identifier>
+        <datestamp>2015-09-02T18:39:47Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.AVES.16244</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Aves</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>egg</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>4</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19210528</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19210528</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>De Vries, Tsj. Gs.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Emberiza schoeniclus schoeniclus</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Emberiza</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>schoeniclus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>schoeniclus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText>No</abcd:NomenclaturalTypeText>
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString>Rietgors</abcd:InformalNameString>
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Emberizidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Emberiza schoeniclus schoeniclus Linnaeus, 1758</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Emberiza</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>schoeniclus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>schoeniclus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>De Vries, Tsj. Gs.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Netherlands</abcd:Country>
+            <abcd:ProvinceState>Fryslân</abcd:ProvinceState>
+            <abcd:Locality>Suawoude/Suwâld, de Warren</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Suawoude, De Warren</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal>53.1833</abcd:LatitudeDecimal>
+              <abcd:LongitudeDecimal>5.95</abcd:LongitudeDecimal>
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>136429688</identifier>
+        <datestamp>2015-09-02T18:39:41Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.AVES.15562</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Aves</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>egg</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>7</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19380101</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19481231</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Roeleveld, J.G.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Phoenicurus phoenicurus phoenicurus</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>phoenicurus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>phoenicurus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>phoenicurus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText>No</abcd:NomenclaturalTypeText>
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString>Gekraagde Roodstaart</abcd:InformalNameString>
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Turdidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Phoenicurus phoenicurus phoenicurus Linnaeus, 1758</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>phoenicurus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>phoenicurus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>phoenicurus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Roeleveld, J.G.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Netherlands</abcd:Country>
+            <abcd:ProvinceState>Gelderland</abcd:ProvinceState>
+            <abcd:Locality>Loenen on Veluwe</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Loenen on Veluwe</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal>52.1</abcd:LatitudeDecimal>
+              <abcd:LongitudeDecimal>5.9833</abcd:LongitudeDecimal>
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>136424391</identifier>
+        <datestamp>2015-09-02T18:39:38Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.AVES.15412</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Aves</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>egg</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>5</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19490628</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19490628</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Politie Utrecht</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Acrocephalus arundinaceus arundinaceus</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Acrocephalus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>arundinaceus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>arundinaceus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText>No</abcd:NomenclaturalTypeText>
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString>Grote Karekiet</abcd:InformalNameString>
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sylviidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Acrocephalus arundinaceus arundinaceus Linnaeus, 1758</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Acrocephalus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>arundinaceus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>arundinaceus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Linnaeus, 1758</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Not stated [J.G. Roeleveld]</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Netherlands</abcd:Country>
+            <abcd:ProvinceState>Utrecht</abcd:ProvinceState>
+            <abcd:Locality>Westbroek</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Westbroek</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal>52.1333</abcd:LatitudeDecimal>
+              <abcd:LongitudeDecimal>5.1167</abcd:LongitudeDecimal>
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>136398179</identifier>
+        <datestamp>2015-09-02T18:39:31Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.AVES.12819</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Aves</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>egg</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19240624</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19240624</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Van der Vooren, A.A.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Acrocephalus scirpaceus scirpaceus</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Acrocephalus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>scirpaceus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>scirpaceus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Hermann, 1804</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText>No</abcd:NomenclaturalTypeText>
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString>Kleine Karekiet</abcd:InformalNameString>
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sylviidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Acrocephalus scirpaceus scirpaceus Hermann, 1804</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Acrocephalus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>scirpaceus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>scirpaceus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Hermann, 1804</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Van der Vooren, A.A.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Netherlands</abcd:Country>
+            <abcd:ProvinceState>Utrecht</abcd:ProvinceState>
+            <abcd:Locality>Maarssen</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Maarssen</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal>52.15</abcd:LatitudeDecimal>
+              <abcd:LongitudeDecimal>5.05</abcd:LongitudeDecimal>
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>136398025</identifier>
+        <datestamp>2015-09-02T18:39:31Z</datestamp>
+        <setSpec>Object</setSpec>
+        <setSpec>Media</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <abcd:UnitID>RMNH.AVES.12814</abcd:UnitID>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenMount>box</abcd:SpecimenMount>
+            <abcd:SourceInstitutionID>RMNH</abcd:SourceInstitutionID>
+            <abcd:CollectionType>Aves</abcd:CollectionType>
+            <abcd:PreparationType>air dried</abcd:PreparationType>
+            <abcd:KindOfUnit>egg</abcd:KindOfUnit>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <abcd:Sex />
+            <abcd:PhaseOrStage />
+            <abcd:AccessionSpecimenNumbers>1</abcd:AccessionSpecimenNumbers>
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:CollectingStartDate>19180615</abcd:CollectingStartDate>
+            <abcd:CollectingEndDate>19180615</abcd:CollectingEndDate>
+            <abcd:CollectorsFieldNumber />
+            <abcd:ProjectTitle />
+            <abcd:FromCaptivity />
+          </ncrsdatagroup>
+          <ncrsAcqdonor>
+            <abcd:AcquiredFrom>Van der Vooren, A.A.</abcd:AcquiredFrom>
+          </ncrsAcqdonor>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Acrocephalus scirpaceus scirpaceus</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Acrocephalus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>scirpaceus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>scirpaceus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Hermann, 1804</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText>No</abcd:NomenclaturalTypeText>
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString>Kleine Karekiet</abcd:InformalNameString>
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+            <ncrsHighername>
+              <abcd:taxonCoverage>Sylviidae</abcd:taxonCoverage>
+              <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>0</abcd:PreferredFlag>
+            <abcd:FullScientificNameString>Acrocephalus scirpaceus scirpaceus Hermann, 1804</abcd:FullScientificNameString>
+            <abcd:GenusOrMonomial>Acrocephalus</abcd:GenusOrMonomial>
+            <abcd:Subgenus />
+            <abcd:SpeciesEpithet>scirpaceus</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet>scirpaceus</abcd:subspeciesepithet>
+            <abcd:InfrasubspecificName />
+            <abcd:AuthorTeamOriginalAndYear>Hermann, 1804</abcd:AuthorTeamOriginalAndYear>
+            <abcd:NomenclaturalTypeText />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:InformalNameString />
+            <abcd:Identifier />
+            <abcd:IdentificationDate />
+            <abcd:VarietalNameString />
+            <abcd:RockType />
+            <abcd:AssociatedFossilAssemblage />
+            <abcd:RockMineralUsage />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Van der Vooren, A.A.</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <abcd:WorldRegion />
+            <abcd:Country>Netherlands</abcd:Country>
+            <abcd:ProvinceState>Noord-Holland</abcd:ProvinceState>
+            <abcd:Locality>Ankeveen</abcd:Locality>
+            <abcd:Island />
+            <abcd:LocalityText>Ankeveen</abcd:LocalityText>
+            <abcd:SiteType />
+            <ncrsGatheringCoordinates>
+              <abcd:LatitudeDecimal>52.25</abcd:LatitudeDecimal>
+              <abcd:LongitudeDecimal>5.0833</abcd:LongitudeDecimal>
+              <abcd:GeodeticDatum />
+              <abcd:CoordinateMethod />
+            </ncrsGatheringCoordinates>
+          </ncrsGatheringSites>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="740515" cursor="740500" />
+  </ListRecords>
+</OAI-PMH>

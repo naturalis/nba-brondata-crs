@@ -1,0 +1,3090 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OAI-PMH xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:atlantis="urn:atlantis" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <responseDate>2017-10-16T05:57:01Z</responseDate>
+  <request verb="ListRecords" resumptionToken="______oai_crs__792100">https://crs.naturalis.nl/atlantispubliek/oai.axd</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>107957377</identifier>
+        <datestamp>2015-02-26T11:19:23Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.987519</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <dwc:sex />
+            <dwc:lifeStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:DateTimeStart />
+            <abcd:DateTimeEnd />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <dwc:scientificName />
+            <dwc:nameAccordingTo />
+            <dwc:vernacularName />
+            <dwc:identifiedBy />
+            <abcd:GenusOrMonomial>Crania</abcd:GenusOrMonomial>
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:NameAddendum>sp.</abcd:NameAddendum>
+            <abcd:IdentificationQualifier1>?</abcd:IdentificationQualifier1>
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:TypeStatus />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>A.W. Janssen</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <Iptc4xmpExt:WorldRegion />
+            <Iptc4xmpExt:CountryName>Franceq</Iptc4xmpExt:CountryName>
+            <Iptc4xmpExt:ProvinceState />
+            <Iptc4xmpExt:Sublocation>Amberre</Iptc4xmpExt:Sublocation>
+          </ncrsGatheringSites>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.987519/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107957365</identifier>
+        <datestamp>2015-05-14T11:52:13Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.791491</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <dwc:sex />
+            <dwc:lifeStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:DateTimeStart />
+            <abcd:DateTimeEnd />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <dwc:scientificName />
+            <dwc:nameAccordingTo />
+            <dwc:vernacularName />
+            <dwc:identifiedBy />
+            <abcd:GenusOrMonomial />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:TypeStatus>Benthic types</abcd:TypeStatus>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>W. Renema</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <Iptc4xmpExt:WorldRegion />
+            <Iptc4xmpExt:CountryName>República Dominicana</Iptc4xmpExt:CountryName>
+            <Iptc4xmpExt:ProvinceState />
+            <Iptc4xmpExt:Sublocation />
+          </ncrsGatheringSites>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.791491/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107957353</identifier>
+        <datestamp>2015-05-14T16:55:14Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.791440</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <dwc:sex />
+            <dwc:lifeStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth>4</abcd:Depth>
+            <abcd:DepthUnit>m</abcd:DepthUnit>
+            <abcd:DateTimeStart />
+            <abcd:DateTimeEnd />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <dwc:scientificName />
+            <dwc:nameAccordingTo />
+            <dwc:vernacularName />
+            <dwc:identifiedBy />
+            <abcd:GenusOrMonomial>Spiroculina</abcd:GenusOrMonomial>
+            <abcd:SpeciesEpithet>hadaii</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:TypeStatus />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>W. Renema</abcd:GatheringAgent>
+          </ncrsCollector>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.791440/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107957317</identifier>
+        <datestamp>2015-05-14T11:55:40Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.791498</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <dwc:sex />
+            <dwc:lifeStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth>27.4</abcd:Depth>
+            <abcd:DepthUnit>m</abcd:DepthUnit>
+            <abcd:DateTimeStart />
+            <abcd:DateTimeEnd />
+          </ncrsdatagroup>
+          <ncrsCollector>
+            <abcd:GatheringAgent>W. Renema</abcd:GatheringAgent>
+          </ncrsCollector>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.791498/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107957305</identifier>
+        <datestamp>2015-05-24T09:18:10Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.791449</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <dwc:sex />
+            <dwc:lifeStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth>3</abcd:Depth>
+            <abcd:DepthUnit>m</abcd:DepthUnit>
+            <abcd:DateTimeStart />
+            <abcd:DateTimeEnd />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <dwc:scientificName />
+            <dwc:nameAccordingTo />
+            <dwc:vernacularName />
+            <dwc:identifiedBy />
+            <abcd:GenusOrMonomial>Textularia</abcd:GenusOrMonomial>
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:NameAddendum>sp.</abcd:NameAddendum>
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:TypeStatus />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>W. Renema</abcd:GatheringAgent>
+          </ncrsCollector>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.791449/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789545</identifier>
+        <datestamp>2015-01-22T14:49:14Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.38850</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.38850/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789533</identifier>
+        <datestamp>2015-01-22T14:28:04Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375136</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375136/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789521</identifier>
+        <datestamp>2015-01-22T14:46:03Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375691</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375691/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789509</identifier>
+        <datestamp>2015-01-22T14:43:58Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375640</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375640/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789496</identifier>
+        <datestamp>2015-01-22T14:41:42Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375586</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375586/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789484</identifier>
+        <datestamp>2015-01-22T14:35:48Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375221</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375221/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789472</identifier>
+        <datestamp>2015-01-22T14:40:02Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375305</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375305/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789460</identifier>
+        <datestamp>2015-01-22T14:50:03Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375801</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375801/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789448</identifier>
+        <datestamp>2015-01-22T14:22:37Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375012</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375012/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789436</identifier>
+        <datestamp>2015-01-22T14:52:46Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.38749</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.38749/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789424</identifier>
+        <datestamp>2015-01-22T14:49:15Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.29938</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.29938/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789412</identifier>
+        <datestamp>2015-01-22T14:32:28Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375214</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375214/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789400</identifier>
+        <datestamp>2015-01-22T14:45:17Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375675</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375675/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789388</identifier>
+        <datestamp>2015-01-22T14:51:48Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.38700</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.38700/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789376</identifier>
+        <datestamp>2015-01-22T14:27:11Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375103</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375103/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789363</identifier>
+        <datestamp>2015-01-22T14:50:06Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.38865</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.38865/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789351</identifier>
+        <datestamp>2015-01-22T14:23:55Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375027</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375027/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789339</identifier>
+        <datestamp>2015-01-22T14:48:25Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375780</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375780/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789327</identifier>
+        <datestamp>2015-01-22T14:40:50Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375330</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375330/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789315</identifier>
+        <datestamp>2015-01-22T14:38:17Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375268</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375268/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107789303</identifier>
+        <datestamp>2015-01-22T14:43:04Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375609</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375609/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785474</identifier>
+        <datestamp>2015-01-22T14:50:53Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.38838</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.38838/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785462</identifier>
+        <datestamp>2015-01-22T14:39:09Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375298</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375298/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785450</identifier>
+        <datestamp>2015-01-22T14:22:36Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375006</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375006/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785438</identifier>
+        <datestamp>2015-01-22T14:40:03Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375311</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375311/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785426</identifier>
+        <datestamp>2015-01-22T14:36:29Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375235</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375235/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785414</identifier>
+        <datestamp>2015-01-22T14:42:20Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375592</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375592/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785402</identifier>
+        <datestamp>2015-01-22T14:51:51Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.38721</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.38721/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785390</identifier>
+        <datestamp>2015-01-22T14:44:39Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375654</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375654/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785377</identifier>
+        <datestamp>2015-01-22T14:46:02Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375685</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375685/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785365</identifier>
+        <datestamp>2015-01-22T14:28:02Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375122</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375122/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785353</identifier>
+        <datestamp>2015-01-22T14:50:05Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.38844</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.38844/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785341</identifier>
+        <datestamp>2015-01-22T14:53:36Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.38768</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.38768/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785329</identifier>
+        <datestamp>2015-01-22T14:40:05Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375324</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375324/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785317</identifier>
+        <datestamp>2015-01-22T14:48:28Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375794</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375794/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785305</identifier>
+        <datestamp>2015-01-22T14:23:56Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375033</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375033/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785293</identifier>
+        <datestamp>2015-01-22T14:41:40Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375576</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375576/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785281</identifier>
+        <datestamp>2015-01-22T14:49:16Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.38871</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.38871/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785269</identifier>
+        <datestamp>2015-01-22T14:27:13Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375117</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375117/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785256</identifier>
+        <datestamp>2015-01-22T14:44:40Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375661</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375661/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785244</identifier>
+        <datestamp>2015-01-22T14:32:26Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375200</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375200/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107785232</identifier>
+        <datestamp>2015-01-22T14:41:39Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.375571</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.375571/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>52472486</identifier>
+        <datestamp>2015-01-26T15:33:18Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.967048</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleobotany</abcd:CollectionType>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <dwc:sex />
+            <dwc:lifeStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:DateTimeStart>18790504</abcd:DateTimeStart>
+            <abcd:DateTimeEnd>18790504</abcd:DateTimeEnd>
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <dwc:scientificName />
+            <dwc:nameAccordingTo />
+            <dwc:vernacularName />
+            <dwc:identifiedBy />
+            <abcd:GenusOrMonomial />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:TypeStatus />
+            <ncrsHighername>
+              <ac:taxonCoverage>Bacillariophyceae</ac:taxonCoverage>
+              <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Kinker</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <Iptc4xmpExt:WorldRegion />
+            <Iptc4xmpExt:CountryName />
+            <Iptc4xmpExt:ProvinceState />
+            <Iptc4xmpExt:Sublocation>Genève</Iptc4xmpExt:Sublocation>
+          </ncrsGatheringSites>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.967048/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351723</identifier>
+        <datestamp>2015-01-22T09:18:51Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374244</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374244/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351711</identifier>
+        <datestamp>2015-01-22T14:21:51Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374991</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374991/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351699</identifier>
+        <datestamp>2015-01-22T14:10:38Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374818</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374818/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351686</identifier>
+        <datestamp>2015-01-22T08:46:54Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.373937</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.373937/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351674</identifier>
+        <datestamp>2015-01-22T09:37:35Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374688</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374688/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351662</identifier>
+        <datestamp>2015-01-22T09:36:45Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374659</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374659/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351650</identifier>
+        <datestamp>2015-01-22T09:18:07Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374238</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374238/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351638</identifier>
+        <datestamp>2015-01-22T09:37:59Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374701</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374701/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351626</identifier>
+        <datestamp>2015-01-22T09:22:54Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374360</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374360/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351614</identifier>
+        <datestamp>2015-01-22T14:12:38Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374864</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374864/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351601</identifier>
+        <datestamp>2015-01-22T09:25:09Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374416</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374416/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351589</identifier>
+        <datestamp>2015-01-22T09:12:07Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374077</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374077/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351577</identifier>
+        <datestamp>2015-01-22T14:10:37Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374809</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374809/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351565</identifier>
+        <datestamp>2015-01-22T09:16:58Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374193</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374193/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351553</identifier>
+        <datestamp>2015-01-22T09:35:16Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374634</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374634/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351541</identifier>
+        <datestamp>2015-01-22T14:21:49Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374980</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374980/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351529</identifier>
+        <datestamp>2015-01-22T09:18:49Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374255</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374255/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351517</identifier>
+        <datestamp>2015-01-22T14:15:54Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374951</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374951/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351504</identifier>
+        <datestamp>2015-01-22T09:30:42Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374523</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374523/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351492</identifier>
+        <datestamp>2015-01-22T09:19:28Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374284</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374284/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107351480</identifier>
+        <datestamp>2015-01-22T09:14:09Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374142</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374142/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107347914</identifier>
+        <datestamp>2015-01-22T09:12:40Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374097</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374097/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107347902</identifier>
+        <datestamp>2015-01-22T09:39:18Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374730</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374730/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107347890</identifier>
+        <datestamp>2015-01-22T14:13:22Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374884</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374884/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>52408716</identifier>
+        <datestamp>2015-01-30T09:55:35Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.970863</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleobotany</abcd:CollectionType>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <dwc:sex />
+            <dwc:lifeStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:DateTimeStart />
+            <abcd:DateTimeEnd />
+          </ncrsdatagroup>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Jongmans</abcd:GatheringAgent>
+          </ncrsCollector>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.970863/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>52695580</identifier>
+        <datestamp>2015-01-30T09:56:17Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.972428</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <dwc:sex />
+            <dwc:lifeStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth>1385-1390</abcd:Depth>
+            <abcd:DepthUnit>m</abcd:DepthUnit>
+            <abcd:DateTimeStart />
+            <abcd:DateTimeEnd />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <dwc:scientificName />
+            <dwc:nameAccordingTo />
+            <dwc:vernacularName />
+            <dwc:identifiedBy />
+            <abcd:GenusOrMonomial>G.</abcd:GenusOrMonomial>
+            <abcd:SpeciesEpithet>eu@perlia</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:TypeStatus />
+            <ncrsHighername>
+              <ac:taxonCoverage>Foraminifera</ac:taxonCoverage>
+              <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <dwc:scientificName />
+            <dwc:nameAccordingTo />
+            <dwc:vernacularName />
+            <dwc:identifiedBy />
+            <abcd:GenusOrMonomial>G.</abcd:GenusOrMonomial>
+            <abcd:SpeciesEpithet>ciperoe@</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:TypeStatus />
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <dwc:scientificName />
+            <dwc:nameAccordingTo />
+            <dwc:vernacularName />
+            <dwc:identifiedBy />
+            <abcd:GenusOrMonomial>G.</abcd:GenusOrMonomial>
+            <abcd:SpeciesEpithet>praebull@</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:TypeStatus />
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <dwc:scientificName />
+            <dwc:nameAccordingTo />
+            <dwc:vernacularName />
+            <dwc:identifiedBy />
+            <abcd:GenusOrMonomial>G.</abcd:GenusOrMonomial>
+            <abcd:SpeciesEpithet>ruteri</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:TypeStatus />
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <dwc:scientificName />
+            <dwc:nameAccordingTo />
+            <dwc:vernacularName />
+            <dwc:identifiedBy />
+            <abcd:GenusOrMonomial>G.</abcd:GenusOrMonomial>
+            <abcd:SpeciesEpithet>opimia(nana)</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:TypeStatus />
+          </ncrsDetermination>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <dwc:scientificName />
+            <dwc:nameAccordingTo />
+            <dwc:vernacularName />
+            <dwc:identifiedBy />
+            <abcd:GenusOrMonomial>Cass</abcd:GenusOrMonomial>
+            <abcd:SpeciesEpithet>chipolen@</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:TypeStatus />
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Haak</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <Iptc4xmpExt:WorldRegion />
+            <Iptc4xmpExt:CountryName>Suriname</Iptc4xmpExt:CountryName>
+            <Iptc4xmpExt:ProvinceState />
+            <Iptc4xmpExt:Sublocation />
+          </ncrsGatheringSites>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.972428/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>55181160</identifier>
+        <datestamp>2015-01-30T09:48:02Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.469480</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <dwc:sex />
+            <dwc:lifeStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:DateTimeStart />
+            <abcd:DateTimeEnd />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <dwc:scientificName />
+            <dwc:nameAccordingTo />
+            <dwc:vernacularName />
+            <dwc:identifiedBy />
+            <abcd:GenusOrMonomial>Miogypsina</abcd:GenusOrMonomial>
+            <abcd:SpeciesEpithet>ecuadorensis</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:TypeStatus />
+          </ncrsDetermination>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.469480/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345319</identifier>
+        <datestamp>2015-01-22T09:17:37Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374222</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374222/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345307</identifier>
+        <datestamp>2015-01-22T09:33:14Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374585</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374585/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345292</identifier>
+        <datestamp>2015-01-22T09:35:47Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374643</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374643/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345280</identifier>
+        <datestamp>2015-01-22T09:37:34Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374692</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374692/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345268</identifier>
+        <datestamp>2015-01-22T09:14:10Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374135</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374135/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345256</identifier>
+        <datestamp>2015-01-22T14:15:07Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374926</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374926/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345244</identifier>
+        <datestamp>2015-01-22T09:32:20Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374554</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374554/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345232</identifier>
+        <datestamp>2015-01-22T09:04:59Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374011</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374011/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345220</identifier>
+        <datestamp>2015-01-22T09:28:39Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374470</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374470/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345207</identifier>
+        <datestamp>2015-01-22T14:10:36Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374802</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374802/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345195</identifier>
+        <datestamp>2015-01-22T09:21:32Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374306</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374306/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345183</identifier>
+        <datestamp>2015-01-22T14:05:14Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374767</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374767/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345171</identifier>
+        <datestamp>2015-01-22T08:49:19Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.373980</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.373980/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345159</identifier>
+        <datestamp>2015-01-22T09:16:58Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374198</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374198/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345147</identifier>
+        <datestamp>2015-01-22T09:14:40Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374149</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374149/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345135</identifier>
+        <datestamp>2015-01-22T09:31:37Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374528</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374528/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345122</identifier>
+        <datestamp>2015-01-22T08:47:43Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.373951</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.373951/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345110</identifier>
+        <datestamp>2015-01-22T09:04:58Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374016</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374016/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345098</identifier>
+        <datestamp>2015-01-22T14:10:36Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374805</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374805/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345086</identifier>
+        <datestamp>2015-01-22T09:29:07Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374477</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374477/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>107345074</identifier>
+        <datestamp>2015-01-22T09:21:32Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.374301</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.374301/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>52494916</identifier>
+        <datestamp>2015-01-30T14:18:48Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.971666</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleobotany</abcd:CollectionType>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <dwc:sex />
+            <dwc:lifeStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:DateTimeStart />
+            <abcd:DateTimeEnd />
+          </ncrsdatagroup>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Jongmans</abcd:GatheringAgent>
+          </ncrsCollector>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.971666/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>55181544</identifier>
+        <datestamp>2015-01-30T14:17:15Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.469532</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Micropaleontology</abcd:CollectionType>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <dwc:sex />
+            <dwc:lifeStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:DateTimeStart />
+            <abcd:DateTimeEnd />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <dwc:scientificName />
+            <dwc:nameAccordingTo />
+            <dwc:vernacularName />
+            <dwc:identifiedBy />
+            <abcd:GenusOrMonomial>Miniacina</abcd:GenusOrMonomial>
+            <abcd:SpeciesEpithet>miniacea</abcd:SpeciesEpithet>
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:TypeStatus />
+          </ncrsDetermination>
+          <ncrsGatheringSites>
+            <Iptc4xmpExt:WorldRegion />
+            <Iptc4xmpExt:CountryName>Barbados</Iptc4xmpExt:CountryName>
+            <Iptc4xmpExt:ProvinceState />
+            <Iptc4xmpExt:Sublocation />
+          </ncrsGatheringSites>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.469532/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>52724997</identifier>
+        <datestamp>2015-01-26T09:25:11Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.965450</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleobotany</abcd:CollectionType>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <dwc:sex />
+            <dwc:lifeStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:DateTimeStart />
+            <abcd:DateTimeEnd />
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <dwc:scientificName />
+            <dwc:nameAccordingTo />
+            <dwc:vernacularName />
+            <dwc:identifiedBy />
+            <abcd:GenusOrMonomial>Lithothamnium</abcd:GenusOrMonomial>
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:TypeStatus />
+          </ncrsDetermination>
+          <ncrsGatheringSites>
+            <Iptc4xmpExt:WorldRegion />
+            <Iptc4xmpExt:CountryName />
+            <Iptc4xmpExt:ProvinceState />
+            <Iptc4xmpExt:Sublocation>Teweh</Iptc4xmpExt:Sublocation>
+          </ncrsGatheringSites>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.965450/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>52716472</identifier>
+        <datestamp>2015-01-26T09:14:38Z</datestamp>
+        <setSpec>Media</setSpec>
+        <setSpec>Object</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ac="http://rs.tdwg.org/ac/terms/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:abcd="http://rs.tdwg.org/abcd/2.06/b/">
+          <ncrsSpecimen>
+            <ac:associatedSpecimenReference>RGM.966939</ac:associatedSpecimenReference>
+            <abcd:RecordBasis>FossileSpecimen</abcd:RecordBasis>
+            <abcd:SourceInstitutionID />
+            <abcd:CollectionType>Paleobotany</abcd:CollectionType>
+          </ncrsSpecimen>
+          <ncrsdatagroup>
+            <dwc:sex />
+            <dwc:lifeStage />
+            <abcd:AccessionSpecimenNumbers />
+            <abcd:Altitude />
+            <abcd:AltitudeUnit />
+            <abcd:Depth />
+            <abcd:DepthUnit />
+            <abcd:DateTimeStart>18951201</abcd:DateTimeStart>
+            <abcd:DateTimeEnd>18951231</abcd:DateTimeEnd>
+          </ncrsdatagroup>
+          <ncrsDetermination>
+            <abcd:PreferredFlag>1</abcd:PreferredFlag>
+            <dwc:scientificName />
+            <dwc:nameAccordingTo />
+            <dwc:vernacularName />
+            <dwc:identifiedBy />
+            <abcd:GenusOrMonomial />
+            <abcd:SpeciesEpithet />
+            <abcd:InfrasubspecificRank />
+            <abcd:subspeciesepithet />
+            <abcd:InfrasubspecificName />
+            <abcd:NameAddendum />
+            <abcd:IdentificationQualifier1 />
+            <abcd:IdentificationQualifier2 />
+            <abcd:IdentificationQualifier3 />
+            <abcd:TypeStatus />
+            <ncrsHighername>
+              <ac:taxonCoverage>Bacillariophyceae</ac:taxonCoverage>
+              <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+            </ncrsHighername>
+          </ncrsDetermination>
+          <ncrsCollector>
+            <abcd:GatheringAgent>Kinker</abcd:GatheringAgent>
+          </ncrsCollector>
+          <ncrsGatheringSites>
+            <Iptc4xmpExt:WorldRegion />
+            <Iptc4xmpExt:CountryName>Nihon</Iptc4xmpExt:CountryName>
+            <Iptc4xmpExt:ProvinceState />
+            <Iptc4xmpExt:Sublocation>Sendai</Iptc4xmpExt:Sublocation>
+          </ncrsGatheringSites>
+          <frmDigitalebestanden>
+            <dc:title>RGM</dc:title>
+            <photoshop:Credit />
+            <dc:creator />
+            <abcd:MultiMediaPublic>1</abcd:MultiMediaPublic>
+            <abcd:fileuri>http://medialib.naturalis.nl/file/id/RGM.966939/format/small</abcd:fileuri>
+          </frmDigitalebestanden>
+          <abcd:ObjectPublic>1</abcd:ObjectPublic>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="1315938" cursor="792100">______oai_crs__792200</resumptionToken>
+  </ListRecords>
+</OAI-PMH>
